@@ -14,6 +14,6 @@ Get whatever version that you want. DO NOT GET THE SOURCE CODE UNLESS YOU WANT T
 6. Select "Open Folder".
 
 ### Method 2
-1. Go to [chrome://extensions](chrome://extensions) and toggle "Developer Mode" on.
+1. Go to <a href="chrome://extensions">chrome://extensions/a> and toggle "Developer Mode" on.
 2. Open the File Explorer and locate your .zip file.
 3. Drag and drop it onto chrome://extensions.
