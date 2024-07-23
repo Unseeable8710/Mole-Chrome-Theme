@@ -4,7 +4,7 @@ This is the code for my theme "Mole!". If you want to install an older version, 
 ## Download
 Get whatever version that you want.
 
-*** Important Note: Do not click "Source code" unless you want to download every version! Downloading the other option gives you the source code anyway, since browser extensions are zipped, not compiled.***
+***Important Note: Do not click "Source code" unless you want to download every version! Downloading the other option gives you the source code anyway, since browser extensions are zipped, not compiled.***
 
 ## Installation
 ### Method 1
