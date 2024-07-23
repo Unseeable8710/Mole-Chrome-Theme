@@ -2,7 +2,9 @@
 This is the code for my theme "Mole!". If you want to install an older version, the code and packages are here. The official page can be found at https://chrome.google.com/webstore/detail/mole/ppabjmaplbgfpaclleoaciomjfnbilca.
 
 ## Download
-Get whatever version that you want. DO NOT GET THE SOURCE CODE UNLESS YOU WANT TO DOWNLOAD EVERY VERSION!
+Get whatever version that you want.
+
+*** Important Note: Do not click "Source code" unless you want to download every version! Downloading the other option gives you the source code anyway, since browser extensions are zipped, not compiled.***
 
 ## Installation
 ### Method 1
