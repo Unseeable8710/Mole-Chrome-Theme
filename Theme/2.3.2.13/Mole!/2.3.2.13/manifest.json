@@ -1,0 +1,35 @@
+{
+  "name": "Mole!",
+  "version": "2.3.2.13",
+  "description": "Mole theme for Google Chrome. Changes NTP background, the tab strip colors, the frame, and the omnibox colors.",
+  "manifest_version": 3,
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [139, 87, 42],
+      "toolbar": [184, 212, 244],
+      "tab_text": [45, 56, 39],
+      "tab_background_text": [45, 55, 45],
+      "bookmark_text": [45, 56, 39],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [50, 50, 50],
+      "ntp_link": [6, 55, 116],
+      "button_background": [79, 37, 0, 1]
+    },
+    "tints": {
+      "buttons": [0.27, 0.18, 0.20],
+      "frame": [-1.0, 0.75, 0.65]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 0
+    }
+  }
+}
